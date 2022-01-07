@@ -77,6 +77,11 @@ a.button:active {
 	display: block;
 }
 
+#quote {
+	margin: 30px 0;
+	text-align: center;
+}
+
 @media (max-width: 810px) {
 	main {
 		margin-top: 0;
