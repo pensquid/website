@@ -72,8 +72,6 @@ a.button:active {
 }
 
 .badges img {
-    width: 88px;
-	height: auto;
 	image-rendering: pixelated;
 	display: block;
 }
