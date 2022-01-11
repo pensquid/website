@@ -17,8 +17,9 @@ const quotes = [
 	'I\'m pretty sure if a lemon was packed full of high grade explosives, it would make cuts happen',
 	'We\'re damned to hell either way, why not further incur the wrath of the heavens?',
 	'pensquid more like pwnsquad',
-	'ban/mute for procrastination - we wont ban you rn tho we\'ll get to it later',
-	'ipfs? go hash the content of some bitches lmao'
+	'ban/mute for procrastination, we wont ban you rn tho we\'ll get to it later',
+	'ipfs? go hash the content of some bitches lmao',
+	'hey pen weed its sugarfi.dev and i just wanna say you can hack your mind using squid'
 ]
 
 document.getElementById('quote').innerHTML = `
