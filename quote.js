@@ -19,7 +19,8 @@ const quotes = [
 	'pensquid more like pwnsquad',
 	'ban/mute for procrastination, we wont ban you rn tho we\'ll get to it later',
 	'ipfs? go hash the content of some bitches lmao',
-	'hey pen weed its sugarfi.dev and i just wanna say you can hack your mind using squid'
+	'hey pen weed its sugarfi.dev and i just wanna say you can hack your mind using squid',
+	'touch some grass'
 ]
 
 document.getElementById('quote').innerHTML = `
