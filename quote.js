@@ -16,7 +16,8 @@ const quotes = [
 	'I\'ve eaten two blocks of cheese in one sitting btw',
 	'I\'m pretty sure if a lemon was packed full of high grade explosives, it would make cuts happen',
 	'We\'re damned to hell either way, why not further incur the wrath of the heavens?',
-	'pensquid more like pwnsquad'
+	'pensquid more like pwnsquad',
+	'ban/mute for procrastination - we wont ban you rn tho we\'ll get to it later'
 ]
 
 document.getElementById('quote').innerHTML = `
